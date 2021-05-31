@@ -1,0 +1,10 @@
+{    "deviceId":"{deviceId}",    "data": "{data}",
+"duplicates": [
+{
+    "bsId":"0001",
+    "nbRep":1,
+    "snr":0.0,
+    "rssi":0.0
+}
+]
+}
